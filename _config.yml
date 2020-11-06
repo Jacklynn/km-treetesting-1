@@ -76,18 +76,7 @@ primary_navigation:
   - name: Home
     url: /
   - name: People Ops
-        children:
-      - name: Time & Pay
-        url: "#main-content"
-      - name: Benefits
-        url: "#main-content"
-      - name: Career Development
-        url: "#main-content"
-      - name: Manager Resources
-        url: "#main-content"
-      - name: Reasonable accomodation
-        url: "#main-content"
-
+    url: /
   - name: Document
     url: /document/
   - name: Document with sidenav
