@@ -81,18 +81,27 @@ primary_navigation:
         url: "#"
       - name: Benefits
         url: "#"  
-  - name: Benefits
+      - name: Career development
+        url: "#"  
+      - name: Manager resources
+        url: "#"  
+      - name: Reasonable accomodations
+        url: "#"  
+  - name: Travel
     url: "#"
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
+  - name: IT services & tools
+    url: "#"
+  - name: Line work services
     children:
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
+      - name: Litigation support
+        url: "#"
+      - name: Experts, consultancts, and witnesses
+        url: "#"
+      - name: Legal research
+        url: "#"
+      - name: Language Assistance Services
+        url: "#"
+
 
 secondary_navigation:
   - name: Secondary link
