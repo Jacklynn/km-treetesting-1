@@ -76,7 +76,6 @@ primary_navigation:
   - name: Home
     url: /
   - name: People Ops
-    url: /
         children:
       - name: Time & Pay
         url: "#main-content"
