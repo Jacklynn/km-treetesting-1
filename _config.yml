@@ -77,10 +77,12 @@ primary_navigation:
     url: /
   - name: People Ops
     children:
-      - name: Navigation link
-        url: "#main-content"
-  - name: Document
-    url: /document/
+      - name: Pay & time
+        url: "#"
+      - name: Benefits
+        url: "#"  
+  - name: Benefits
+    url: "#"
   - name: Document with sidenav
     url: /document-with-sidenav/
   - name: Document submenu
