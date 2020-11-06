@@ -76,7 +76,9 @@ primary_navigation:
   - name: Home
     url: /
   - name: People Ops
-    url: /
+    children:
+      - name: Navigation link
+        url: "#main-content"
   - name: Document
     url: /document/
   - name: Document with sidenav
